@@ -3,6 +3,9 @@ name = "random-quote-generator"
 version = "0.1.0"
 description = ""
 authors = ["Kada Liao <kadaliao@gmail.com>"]
+packages = [
+  { include = "random_quote_generator" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
