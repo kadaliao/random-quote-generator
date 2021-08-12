@@ -7,7 +7,7 @@ quotes = [
     },
     {
         "quote": "You should name a variable using the same "
-        "care with which you name a first-born child.",
+        "care with which you name a first-born child. haha.",
         "author": "Robert C. Martin",
     },
     {
